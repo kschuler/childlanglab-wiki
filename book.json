@@ -1,5 +1,5 @@
 {
-    "plugins" : [ "simple-page-toc", "packt-fontsettings",  "smart-nav-collapse", "fi-nav"],
+    "plugins" : [ "simple-page-toc", "packt-fontsettings",  "collapsible-menu"],
     "pluginsConfig": {
         "fontsettings": {
             "size": 1 }}
