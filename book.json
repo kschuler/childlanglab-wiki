@@ -2,5 +2,5 @@
     "plugins" : [ "simple-page-toc", "packt-fontsettings"],
     "pluginsConfig": {
         "fontsettings": {
-            "size": 2 }}
+            "size": 1 }}
 }
