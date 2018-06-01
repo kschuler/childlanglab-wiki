@@ -1,5 +1,5 @@
 {
-    "plugins" : [ "packt-fontsettings",  "collapsible-menu"],
+    "plugins" : [ "packt-fontsettings",  "collapsible-menu-ex"],
     "pluginsConfig": {
         "fontsettings": {
             "size": 1 }}
