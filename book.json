@@ -1,5 +1,5 @@
 {
-    "plugins" : [ "packt-fontsettings",  "collapsible-menu", "page-toc"],
+    "plugins" : [ "packt-fontsettings",  "expandable-chapters-small"],
     "pluginsConfig": {
         "fontsettings": {
             "size": 1 }}
