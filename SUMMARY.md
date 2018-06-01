@@ -1,9 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Lab Handbook](chapter1.md)
-* [Guidelines](second-chapter.md)
-  * [Documentation](second-chapter/sub-chapter.md)
-* [Experiment Library](sub-chapter.md)
-* Tools
-
+* [Lab Handbook](lab-handbook.md)
+* [Guidelines](guidelines.md)
+  * [Documentation](guidelines/documentation.md)
+* [Experiment Library](experiment-library.md)
+* [Tools](tools.md)
