@@ -10,3 +10,4 @@
     * [Importing and cleaning](data-analysis/importing-and-cleaning.md)
 * [Experiment Library](experiment-library.md)
 * [Tools](tools.md)
+  * [Favorite tools](tools/favorite-tools.md)
