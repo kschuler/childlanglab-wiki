@@ -1,4 +1,5 @@
 {
+    "root": "./docs",
     "plugins" : [ "packt-fontsettings",  "expandable-chapters-small"],
     "pluginsConfig": {
         "fontsettings": {
