@@ -3,5 +3,5 @@
     "plugins" : [ "packt-fontsettings",  "expandable-chapters-small"],
     "pluginsConfig": {
         "fontsettings": {
-            "size": 1 }}
+            "size": 2 }}
 }
