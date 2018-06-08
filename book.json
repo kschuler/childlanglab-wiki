@@ -1,7 +1,11 @@
 {
     "root": "./docs",
-    "plugins" : [ "packt-fontsettings",  "expandable-chapters-small"],
+    "plugins" : [ "packt-fontsettings",  "expandable-chapters-small", "simple-page-toc"],
     "pluginsConfig": {
         "fontsettings": {
-            "size": 1 }}
+            "size": 1 },
+            "simple-page-toc": {
+              "maxDepth": 3,
+              "skipFirstH1": true
+             }}
 }

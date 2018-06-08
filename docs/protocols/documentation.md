@@ -2,6 +2,8 @@
 
 These are the general guidelines we follow for documenting and managing our research.
 
+<!-- toc -->
+
 ## Project management with Twist
 
 We manage all of our research projects via [Twist](https://twist.zendesk.com/hc/en-us).  Twist is a web-based project management application that allows teams to work together toward accomplishing projects.  If you are new to twist, you can read the onboarding documentation here:

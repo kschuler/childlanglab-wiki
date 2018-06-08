@@ -1,10 +1,17 @@
 # Word Segmentation (Rating)
 
+<!-- toc -->
+
+## Description
+
 This is the word segmentation task from Saffran, Aslin & Newport (1996). This is the shorter version of the exposure (2 minutes) that was used for the baby experiments.  In the Newport lab, it is often called "Baby Saffran".
 
 
+## Demo
 
-## params.yaml
+[Whack a mole demo]()
+
+## Parameters
 
 ### experiment_wide
 
@@ -44,3 +51,5 @@ Parameter | Type | Description
 `choices` | Value | Time.
 `prompt` | ?? | ??
 `response_ends_trial` | ?? | ??
+
+## Changelog
