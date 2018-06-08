@@ -2,12 +2,14 @@
 
 * [Introduction](README.md)
 * [Lab Handbook](lab-handbook.md)
-* [Guidelines](guidelines.md)
-  * [Documentation](guidelines/documentation.md)
-  * [Literature review](guidelines/documentation.md)
-  * Analyzing data
+* [Protocols](protocols.md)
+  * [Documentation](protocols/documentation.md)
+  * [Literature review](protocols/lit-review.md)
+  * [Analyzing data](analyzing-data.md)
     * [Getting started](data-analysis/getting-started.md)
     * [Importing and cleaning](data-analysis/importing-and-cleaning.md)
 * [Experiment Library](experiment-library.md)
+  * [Artificial Wug](experiment-library/artificial-wug.md)
+  * [Word Seg Rating](experiment-library/word-seg-rating.md)
 * [Tools](tools.md)
   * [Favorite tools](tools/favorite-tools.md)
