@@ -1,6 +1,6 @@
 {
     "root": "./docs",
-    "plugins" : [ "packt-fontsettings",  "expandable-chapters-small", "simple-page-toc"],
+    "plugins" : [ "packt-fontsettings",  "expandable-chapters-small", "simple-page-toc", "katex"],
     "pluginsConfig": {
         "fontsettings": {
             "size": 1 },

@@ -1,4 +1,6 @@
-# Guidelines > Literature Review
+# How to do a Lit Review
+
+> last updated: June 22, 2018
 
 Our lab uses [Zotero](https://www.zotero.org/) to organize our literature and keep notes on our readings.  The lab has a single shared Zotero account that is synced across all lab computers.
 

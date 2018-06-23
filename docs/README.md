@@ -1,17 +1,21 @@
-# Welcome to the Wiki
+# Welcome to the ChildLangLab Wiki
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Welcome to the ChildLangLab Wiki, the internal wiki for the Child Language and Learning Lab at the University of Pennsylvania (PI: Schuler).  For more information about our lab, visit our public website.
 
-## toc?
+<!--- toc --->
 
-Will this page have a TOC?
+## Lab Handbook
 
-### Answer
+## Lab Admin
+- Lab meeting
+- New lab members
+- Departing lab members
 
-Not sure
 
-## what about here?
+## Protocols
 
-### answer
+## How-to
 
-Also not sure
+## Tools
+
+## Experiment Library

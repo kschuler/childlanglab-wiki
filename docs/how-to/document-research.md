@@ -1,4 +1,6 @@
-# Guidelines > Documentation
+# How to Document Research
+
+> This page is under construction.
 
 These are the general guidelines we follow for documenting and managing our research.
 

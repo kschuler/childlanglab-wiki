@@ -1,14 +1,14 @@
-# Word Segmentation (Rating)
+# Word Segmentation
+
+
+This is a word segmentation task (as in Saffran, Aslin & Newport (1996)) in which participants are exposed to some artificial language and then tested on that language (using a rating scale or 2AFC test).  
 
 <!-- toc -->
-
-## Description
-
-This is the word segmentation task from Saffran, Aslin & Newport (1996). This is the shorter version of the exposure (2 minutes) that was used for the baby experiments.  In the Newport lab, it is often called "Baby Saffran".
 
 
 ## Demo
 
+This demo uses the shorter version of the Saffran/Aslin/Newport exposure (2 minutes) that was used for baby experiments.  In the Newport lab, it is often called "Baby Saffran".
 [Whack a mole demo]()
 
 ## Parameters
