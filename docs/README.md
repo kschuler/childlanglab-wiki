@@ -4,18 +4,5 @@ Welcome to the ChildLangLab Wiki, the internal wiki for the Child Language and L
 
 <!--- toc --->
 
-## Lab Handbook
-
-## Lab Admin
-- Lab meeting
-- New lab members
-- Departing lab members
-
-
-## Protocols
-
-## How-to
-
-## Tools
-
-## Experiment Library
+## Training
+* [New Lab Member (Required)](training/new-lab-member/protecting-our-subjects.md)
